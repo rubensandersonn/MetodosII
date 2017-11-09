@@ -1,0 +1,12 @@
+all: main
+
+
+main: main.o matriz.o
+	g++ main.o matriz.o -o main
+
+
+main.o: main.cpp headers/matriz.hpp
+	g++ -c main.cpp
+
+matriz.o: src/matriz.cpp headers/matriz.hpp
+	g++ -c src/matriz.cpp

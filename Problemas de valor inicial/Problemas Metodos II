@@ -1,0 +1,34 @@
+
+Trabalho_07 Problemas de Valores Iniciais - Métodos de Passo Simples - Parte I
+
+	Implemente os seguintes métodos de Passo Simples:
+
+	Pb7_1: Método de Euler Forward (Explícito)
+
+	Pb7_2: Método de Euler Backward (Implícito)
+
+	Pb7_3: Método de Euler Modificado (Implícito)
+
+	Aplique os três métodos para solucionar o problema de valor inicial do sistema massa-mola com duas massas e duas molas mostrado em sala de aula.
+
+Trabalho_08 Problemas de Valores Iniciais - Métodos de Passo simples - Parte II
+
+
+
+	Implemente os seguintes métodos de Passo Simples:
+
+	Método de Runge-Kutta de quarta ordem (Explícito)
+
+	Aplique o método para solucionar o problema de valor inicial do sistema massa-mola com duas massas e duas molas mostrado em sala de aula.
+
+
+Trabalho_08 Problemas de Valores Iniciais - Métodos de Passo simples - Parte II
+
+
+	Implemente um método preditor-corretor da seguinte forma:
+
+	Na fase de predição, utilize as informações conhecidas nos tempos i, i-1, i-2 e i-3.
+
+	Na fase de correção, utilize as informações nos tempos i+1 (obtida na fase de predição), i, i-1 e i-2.
+
+	Aplique o método para solucionar o problema de valor inicial do sistema massa-mola com duas massas e duas molas mostrado em sala de aula.
